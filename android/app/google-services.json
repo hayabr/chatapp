@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800674898230",
+    "project_id": "chatmobileapp-96b37",
+    "storage_bucket": "chatmobileapp-96b37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800674898230:android:a057c852aa3988346ad397",
+        "android_client_info": {
+          "package_name": "com.example.chatappmopileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4DteXxbvhAh78kmTFs-ukppVLa_bZb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
